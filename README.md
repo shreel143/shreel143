@@ -30,6 +30,7 @@
         src="https://komarev.com/ghpvc/?username=shreel143&label=Profile%20views&color=0e75b6&style=plastic" alt="shreel143" /> </p>
 </p>
 
+</div>
 <!-- Tech Stacks -->
 <h2>🛠 Tech Stack</h2>
 
@@ -45,11 +46,17 @@
 ![Visual Studio
 Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br/>
+
 <!-- Streak  -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreel143&theme=algolia" alt="shreel143" /></p>
+<h2>🏆 Github Profile Stats</h2>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreel143&theme=algolia" alt="shreel143" />
+    <img alt="Shreel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shreel143&show_icons=true&count_private=true&theme=algolia"     /></a>
+ </p>
+ <br/>
 
 <!-- Contact -->
-
 ## 🙋‍♀️ Let's Connect
 <p align="center">
     <a href="mailto:shreeltrivedi2020@gmail.com"><img src="https://img.icons8.com/doodle/50/gmail-new.png" alt="Gmail" /></a>
