@@ -49,12 +49,12 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 <br/>
 
 <!-- Streak  -->
-<h2>🏆 Github Profile Stats</h2>
+<!-- <h2>🏆 Github Profile Stats</h2>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreel143&theme=algolia" alt="shreel143" />
     <img alt="Shreel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shreel143&show_icons=true&count_private=true&theme=algolia"     /></a>
  </p>
- <br/>
+ <br/> -->
 
 <!-- Contact -->
 ## 🙋‍♀️ Let's Connect
