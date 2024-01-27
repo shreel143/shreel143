@@ -1,3 +1,4 @@
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!--GitHub Icon and Repository Link  -->
 <a href="https://github.com/shreel143?tab=repositories"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' alt="GitHub Repositories" /></a>
 --------
@@ -33,9 +34,9 @@
 <h2>🛠 Tech Stack</h2>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -52,10 +53,27 @@
 <!-- Streak  -->
 <h2>🏆 Github Profile Stats</h2>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreel143&theme=algolia" alt="GitHub Streak" />
+    <img alt="Shreel's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shreel143&theme=algolia" alt="Streak" />     <!--
     <img alt="Shreel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shreel143&show_icons=true&count_private=true&theme=algolia" />
+    <img alt="Shreel's Top Languages" height="183em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shreel143&layout=compact&langs_count=8&theme=algolia"/> 
+    -->
 </p>
 
+<br>
+<!-- ======================================================================================================================= -->
+<!-- Badges -->
+<!-- ## 🎖️Badges
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/942131ae-b896-4eea-becd-ce55cb8ba8ec/public_url)
+ -->
+
+<!-- ======================================================================================================================= -->
+<!-- Contribution Snake -->
+## 🐍 Contribution snake
+
+![Snake animation](https://github.com/{shreel143}/{shreel143}/blob/output/github-contribution-grid-snake.svg)
+
+<!-- ======================================================================================================================= -->
 <!-- Let's Connect -->
 ## 🙋‍♀️ Let's Connect
 <p align="center">
@@ -64,7 +82,10 @@
 </p>
 <p align="right"><em>Would be happy to connect with you :)</em></p>
 
+<!-- ======================================================================================================================= -->
 <!-- End -->
 <p align="center">
     <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
