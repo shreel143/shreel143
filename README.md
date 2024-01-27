@@ -55,10 +55,6 @@
     <img alt="Shreel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shreel143&show_icons=true&count_private=true&theme=algolia" />
 </p>
 
-<!-- Contribution Snake -->
-## 🐍 Contribution snake
-![Snake animation](https://github.com/shreel143/shreel143/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/shreel143/shreel143/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Let's Connect -->
 <h2>🙋‍♀️ Let's Connect</h2>
