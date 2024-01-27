@@ -1,12 +1,9 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!--GitHub Icon and Repository Link  -->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://github.com/shreel143?tab=repositories"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' alt="GitHub Repositories" /></a>
---------
-<!-- INTRODUCTION  -->
-<h1 align="center">Hi, I'm Shreel Trivedi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
 
+<!-- INTRODUCTION  -->
+<h1 align="center">Hi, I'm Shreel Trivedi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20new%20things;B.Tech+Student;Front-End+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
@@ -40,6 +37,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -48,44 +46,28 @@
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
 
 <!-- Streak  -->
 <h2>🏆 Github Profile Stats</h2>
+
 <p align="center">
-    <img alt="Shreel's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shreel143&theme=algolia" alt="Streak" />     <!--
+    <img alt="Shreel's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shreel143&theme=algolia" alt="Streak" />   
     <img alt="Shreel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shreel143&show_icons=true&count_private=true&theme=algolia" />
-    <img alt="Shreel's Top Languages" height="183em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shreel143&layout=compact&langs_count=8&theme=algolia"/> 
-    -->
 </p>
 
-<br>
-<!-- ======================================================================================================================= -->
-<!-- Badges -->
-<!-- ## 🎖️Badges
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/942131ae-b896-4eea-becd-ce55cb8ba8ec/public_url)
- -->
-
-<!-- ======================================================================================================================= -->
-<!-- Contribution Snake -->
-## 🐍 Contribution snake
-
-![Snake animation](https://github.com/{shreel143}/{shreel143}/blob/output/github-contribution-grid-snake.svg)
-
-<!-- ======================================================================================================================= -->
 <!-- Let's Connect -->
-## 🙋‍♀️ Let's Connect
+<h2>🙋‍♀️ Let's Connect</h2>
 <p align="center">
     <a href="mailto:shreeltrivedi2020@gmail.com"><img src="https://img.icons8.com/doodle/50/gmail-new.png" alt="Gmail" /></a>
    <a href="https://www.linkedin.com/in/shreel-trivedi-932993207/"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="LinkedIn" /></a>
 </p>
 <p align="right"><em>Would be happy to connect with you :)</em></p>
 
-<!-- ======================================================================================================================= -->
+
 <!-- End -->
 <p align="center">
     <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
