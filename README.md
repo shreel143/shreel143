@@ -5,7 +5,7 @@
 <!-- INTRODUCTION  -->
 <h1 align="center">Hi, I'm Shreel Trivedi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20new%20things;B.Tech+Student;Front-End+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast!&font=Fira%20Code&center=true&width=380&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20new%20things;B.Tech+Student;Passionate+about+Cloud;Exploring+AI+%26+ML&font=Fira+Code&center=true&width=380&height=50">
 </p>
 
 <!-- About Me -->
@@ -48,7 +48,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws)
 
 <!-- Streak  -->
-<h2>🏆 Github Profile Stats</h2>
+<h2>🏆 Github Stats</h2>
 
 <p align="center">
     <img alt="Shreel's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shreel143&theme=algolia" alt="Streak" />   
@@ -60,10 +60,9 @@
 <h2>🙋‍♀️ Let's Connect</h2>
 <p align="center">
     <a href="mailto:shreeltrivedi2020@gmail.com"><img src="https://img.icons8.com/doodle/50/gmail-new.png" alt="Gmail" /></a>
-   <a href="https://www.linkedin.com/in/shreel-trivedi-932993207/"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/shreel-trivedi-932993207/"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="LinkedIn" /></a>
 </p>
-<p align="right"><em>Would be happy to connect with you :)</em></p>
-
+<p align="right"><em>Excited to connect and collaborate!</em></p>
 
 <!-- End -->
 <p align="center">
