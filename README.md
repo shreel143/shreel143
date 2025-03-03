@@ -11,7 +11,7 @@
 <!-- About Me -->
 <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:</h2>
 
-- Final Year Student at **Indira Gandhi Delhi Technical University** pursuing B.Tech in Information Technology.
+- BTech IT graduate from **Indira Gandhi Delhi Technical University**.
 - Passionate about coding, design, innovation, and experimentation.
 - Enthusiastic and social, love taking up new challenges and learning new skills.
 - Enjoy meeting new people, exchanging ideas, and spreading knowledge and positivity.
